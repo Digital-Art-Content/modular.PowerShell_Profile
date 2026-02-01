@@ -1,0 +1,224 @@
+=====================================================
+📄 Licence EN/DE
+This project is licensed under the Freeware License.
+=====================================================
+
+
+===============================
+Freeware License (EN)
+===============================
+Copyright © 2026 Chaikobar | © 2026 Digital Art-Content 
+
+
+(See the Repositories on Github 
+https://github.com/orgs/Digital-Art-Content/repositories)
+
+
+This software module (“the Software”) is provided as Freeware.
+By using the Software, users agree to the following terms:
+
+
+
+1. Use
+
+The Software may be used free of charge, for both private and professional purposes, 
+as long as no commercial exploitation takes place.
+
+
+
+2. Prohibition of Commercial Use
+It is not permitted to:
+
+- sell the Software or any part of it,
+
+- distribute it for a fee,
+
+- integrate it into commercial products or services,
+
+- include it in software intended for sale or commercial distribution.
+
+
+
+3. Redistribution
+
+The Software may be redistributed free of charge, provided that:
+
+- it remains unmodified, or
+
+- modified versions are clearly marked as such 
+  and the modifications have been publicly shared with the community through the official GitHub repository.
+
+- this license is included in full,
+
+- the original author is clearly credited.
+
+
+
+4. Modification
+
+Modifications are allowed, but only for private and non‑commercial use.
+Modified versions may not be sold or distributed as standalone products.
+
+
+
+5. Disclaimer of Liability
+
+The Software is provided without any warranty.
+The author assumes no liability for any damages resulting from:
+
+- use,
+
+- misuse,
+
+- modification,
+
+- or malfunction
+
+of the Software.
+
+Use is at the user’s own risk.
+
+
+
+6. Prohibition of Malicious Code
+
+It is strictly prohibited to add or distribute:
+
+- malware,
+
+- malicious code,
+
+- security‑compromising modifications
+
+within the Software or any derivative versions.
+
+
+
+7. Author’s Rights
+
+The author retains all rights to the Software.
+The author may at any time:
+
+- release new versions,
+
+- change the license,
+
+- grant commercial licenses,
+
+- relicense the Software under different terms.
+
+
+© 2026 Chaikobar | © 2026 Digital Art-Content 
+
+The license and copyright remain valid even if the year is not updated.
+
+
+--------------------------------------------------------------------------------------------------
+===============================
+Freeware License (DE)
+===============================
+Copyright © 2026 Chaikobar | © 2026 Digital Art-Content 
+
+
+(Besuche die Repositories auf Github:
+https://github.com/orgs/Digital-Art-Content/repositories)
+
+
+Dieses Software‑Modul („die Software“) wird als Freeware bereitgestellt.
+Durch die Nutzung der Software erklären sich Nutzer mit den folgenden Bedingungen einverstanden:
+
+
+
+1. Nutzung
+
+Die Software darf kostenlos genutzt werden, sowohl privat als auch beruflich, 
+solange keine kommerzielle Verwertung erfolgt.
+
+
+
+2. Verbot der kommerziellen Nutzung
+Es ist nicht gestattet, die Software oder Teile davon:
+
+- zu verkaufen,
+
+- gegen Entgelt weiterzugeben,
+
+- in kommerzielle Produkte oder Dienstleistungen zu integrieren,
+
+- in Software einzubauen, die mit Verkaufsabsicht entwickelt oder vertrieben wird.
+
+
+
+3. Weitergabe
+
+Die Software darf kostenlos weitergegeben werden, sofern:
+
+- sie unverändert bleibt, oder 
+
+- modifizierte Versionen klar als solche gekennzeichnet sind 
+  und die Modifikationen über das offizielle GitHub‑Repository öffentlich geteilt wurden.
+
+- diese Lizenz vollständig beiliegt,
+
+- der ursprüngliche Autor klar genannt wird.
+
+
+
+4. Modifikation
+
+Modifikationen sind erlaubt, jedoch nur für den privaten und nicht‑kommerziellen Gebrauch.
+Modifizierte Versionen dürfen nicht verkauft oder als eigenständiges Produkt verbreitet werden.
+
+
+
+5. Haftungsausschluss
+
+Die Software wird ohne jegliche Garantie bereitgestellt.
+Der Autor übernimmt keinerlei Haftung für Schäden, die durch:
+
+- Nutzung,
+
+- Missbrauch,
+
+- Modifikation,
+
+- oder Fehlfunktionen
+
+der Software entstehen.
+
+Die Nutzung erfolgt auf eigene Verantwortung.
+
+
+
+6. Verbot von Schadcode
+
+Es ist ausdrücklich untersagt, die Software oder abgeleitete Versionen mit:
+
+- Schadsoftware,
+
+- bösartigem Code,
+
+- sicherheitsrelevanten Manipulationen
+
+zu versehen oder öffentlich zu verbreiten.
+
+
+
+7. Rechte des Autors
+
+Der Autor behält alle Rechte an der Software.
+Der Autor darf jederzeit:
+
+- neue Versionen veröffentlichen,
+
+- die Lizenz ändern,
+
+- kommerzielle Lizenzen vergeben,
+
+- die Software anderweitig lizenzieren.
+
+
+
+Copyright © 2026 Chaikobar | © 2026 Digital Art-Content 
+
+Die Lizenz- und Urheberrechte bleiben auch dann gültig, wenn die Jahreszahl nicht aktualisiert wurde.
